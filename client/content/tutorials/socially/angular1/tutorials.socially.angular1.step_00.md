@@ -116,7 +116,7 @@ But if you load this in your browser, **you won't see anything**. That's because
 
 Angular 1 apps are actually individual modules. So let's create our main module.
 
-Create a new `main.js` file on the project's root folder.
+Create a new `main.js` file on the project's client folder.
 
 Here you see another example of Meteor's power and simplicity - no need to write boilerplate code to include that file anywhere. Meteor will take care of it by going through all the files in the `socially` folder and including them automatically.
 
